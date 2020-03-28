@@ -1,0 +1,5 @@
+C:\Users\hotta\source\repos\NLayeredDemo\Northwind.Entities\bin\Debug\Northwind.Entities.dll
+C:\Users\hotta\source\repos\NLayeredDemo\Northwind.Entities\bin\Debug\Northwind.Entities.pdb
+C:\Users\hotta\source\repos\NLayeredDemo\Northwind.Entities\obj\Debug\Northwind.Entities.csprojAssemblyReference.cache
+C:\Users\hotta\source\repos\NLayeredDemo\Northwind.Entities\obj\Debug\Northwind.Entities.dll
+C:\Users\hotta\source\repos\NLayeredDemo\Northwind.Entities\obj\Debug\Northwind.Entities.pdb
